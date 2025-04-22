@@ -1,8 +1,8 @@
 ## Project Overview 🎥
 
-Here's a video overview of the classroom scene created with Unity:
+Here's an overview of the classroom scene created with Unity:
 
-![Project Video](./Documentation/classroom.mp4)
+![Classroom Overview](./Documentation/classroom.gif)
 
 ## Project Documentation 📚
 
