@@ -1,25 +1,40 @@
+# Unity folders to ignore
 [Ll]ibrary/
 [Tt]emp/
-[Oo]bj/
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
+[Oo]bj/
 UserSettings/
-MemoryCaptures/
+
+# Visual Studio / Rider
+.vscode/
 *.csproj
-*.unityproj
 *.sln
+*.user
+*.unityproj
+*.pidb
 *.suo
 *.tmp
-*.user
-*.userprefs
-*.pidb
-*.booproj
 *.svd
 *.pdb
 *.mdb
 *.opendb
 *.VC.db
-*.DS_Store
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Unity crash / debug / preview files
+sysinfo.txt
+*.stacktrace
 *.apk
 *.aab
+
+# Cache and local generated
+*.unitypackage
+*.local
+*.lock
+*.meta~*
+*.bak
