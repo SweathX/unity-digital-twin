@@ -50,3 +50,13 @@ This Unity project is an interactive classroom simulation, designed as a digital
 2. Open the project in Unity
 3. Open the `ClassroomScene` in the `Assets/Scenes` folder
 4. Configure waypoints for students if needed
+
+### Team
+
+- Mathéo Beaunez
+- Gabriel Rouchon
+- Quentin Aumas
+- Alexis Danlos
+- Clément Dreiski
+- Olivier Reynaud
+- Charles Delachapelle
